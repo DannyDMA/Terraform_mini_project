@@ -1,0 +1,10 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraformrc
+terraform.rc
+override.tf
+override.tf.json
+*tfplan
+.vscode/
