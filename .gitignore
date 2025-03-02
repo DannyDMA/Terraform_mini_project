@@ -8,3 +8,5 @@ override.tf
 override.tf.json
 *tfplan
 .vscode/
+terraform.tfvars
+.terraform.lock.hcl
